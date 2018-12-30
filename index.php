@@ -121,9 +121,7 @@
 </div>
 <script>
     var MESSAGES = {"network_error":"The login is invalid.","authenticating":"Authenticating …","no_username":"You must specify a username to log in.","session_locale":"The desired locale has been saved to your browser. To change the locale in this browser again, select another locale on this screen.","read_below":"Read the important information below.","invalid_login":"The login is invalid.","ajax_timeout":"The connection timed out. Please try again.","success":"Login successful. Redirecting …"};
-
     window.IS_LOGOUT = false;
-
 </script>
 
 <style>
