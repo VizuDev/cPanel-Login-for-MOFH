@@ -110,7 +110,7 @@
         }
     }
 </style>
-				<div class="copyright">Copyright© <script>getFullYear()</script> DrastDev.
+				<div class="copyright">Copyright ©<script>new Date().getFullYear()</script> DrastDev.
 							<br />
 						</div>
 					</body>
