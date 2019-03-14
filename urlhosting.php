@@ -1,1 +1,1 @@
-cpanel.denhostapp.ga
+https://cpanel.example.com
