@@ -9,7 +9,7 @@ Don't forget to replace any links with the new login and signup links.
 
 ## Copyright Info
 
-Copyright (C) 2018 DrastDev. All Rights Reserved.
+Copyright (C) 2019 DrastDev. All Rights Reserved.
 
 [![Licensed under the CC-BY-4.0](https://img.shields.io/github/license/VizuDev/cPanel-Login-for-MOFH.svg?style=for-the-badge)](https://github.com/DrastDev/cPanel-Login-for-MOFH/blob/master/LICENSE.md)
 
