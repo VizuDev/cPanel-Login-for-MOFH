@@ -99,18 +99,19 @@
 							</div>
 							<!--Close login-wrapper -->
 						</div>
-						<script>
+<script>
     var MESSAGES = {"network_error":"The login is invalid.","authenticating":"Authenticating …","no_username":"You must specify a username to log in.","session_locale":"The desired locale has been saved to your browser. To change the locale in this browser again, select another locale on this screen.","read_below":"Read the important information below.","invalid_login":"The login is invalid.","ajax_timeout":"The connection timed out. Please try again.","success":"Login successful. Redirecting …"};
     window.IS_LOGOUT = false;
+    document.getElementById("year").innerHTML = new Date().getFullYear();
 </script>
-						<style>
+<style>
     @media (min-width: 481px) {
         #select_user_form {
             width: px;
         }
-    }
+    }													
 </style>
-				<div class="copyright">Copyright ©<script>new Date().getFullYear()</script> DrastDev.
+				<div class="copyright">Copyright ©<span id="year">Please enable JavaScript if you're seeing this message.</span> DrastDev.
 							<br />
 						</div>
 					</body>
