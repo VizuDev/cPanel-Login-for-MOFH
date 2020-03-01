@@ -1,4 +1,4 @@
-<!-- This login form for vPanel has been created by DrastDev. More info at https://drastdev.cf/ -->
+<!-- This login form for vPanel has been created by VizuDev. More info at https://vizudev.net/ -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 	<head>
@@ -106,7 +106,7 @@
         }
     }													
 </style>
-				<div class="copyright">Copyright ©<span id="year">Please enable JavaScript if you're seeing this message.</span> DrastDev.
+				<div class="copyright">Copyright ©<span id="year">Please enable JavaScript if you're seeing this message.</span> VizuDev.
 							<br />
 						</div>
 <script>
